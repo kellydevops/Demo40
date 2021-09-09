@@ -1,4 +1,2 @@
 THIS is my first file
 This is my first file
-using cat cmd
-this is new line
